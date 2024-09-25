@@ -19,10 +19,10 @@ I study full-time @ The Open University
 🔭  What stacks do you use? 
 
 I am currently focusing on the following technologies: 
-<li>React.JS</li> 
-<li>Node.JS</li>
-<li>GNIX</li>
-<li>AWS</li>
-<li>Tailwind</li>
-<li>JavaScript & Java (possibly typescript in the not-so-distant future)</li>
-<li>PostGRES (still learning)</li>
+React.JS
+Node.JS
+GNIX
+AWS
+Tailwind
+JavaScript & Java (possibly typescript in the not-so-distant future)
+PostGRES (still learning)

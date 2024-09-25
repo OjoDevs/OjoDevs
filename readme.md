@@ -37,14 +37,13 @@ JavaScript & Java (possibly typescript in the not-so-distant future)
 PostGRES (still learning)
 
 <br/>
-**⏲️  How Long have you been programming?**
+**⏲️ How Long have you been programming?**
 
 I have been programming on and off for around 5 years.
 
 
 <br/>
- **☑️  Can you help me on my projects?**
-
+ ** ☑️  Can you help me on my projects? **
 
 
 Of course, you can contact me either on discord: ojodevs **OR** contact me via the links on my <a href="www.ojodevs.tech">website</a>.

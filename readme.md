@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0089c5&text=Welcome%20To%20My%20Github&fontColor=c1c1c1&fontSize=50&animation=fadeIn&descAlign=56">
 <h1>What's Cracking</h1>
 I don't mind programming now and again. When I decide to, I post my stuff on this GitHub.
- My <a href="www.ojodevs.tech">Portfolio</a>
 <br>
 
   <H1> My Stack </H1>

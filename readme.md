@@ -18,7 +18,7 @@ I study full-time @ The Open University
 
 <br/>
 
-<h3>🔭  What stacks do you use?</h3>
+<h3>🔭  What technologies are you learning?</h3>
 
 I am currently focusing on the following technologies: 
 
@@ -34,7 +34,7 @@ Tailwind
 
 JavaScript & Java (possibly typescript in the not-so-distant future)
 
-PostGRES (still learning)
+PostGRES 
 
 <br/>
 

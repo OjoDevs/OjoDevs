@@ -11,13 +11,13 @@ I don't mind programming now and again. When I decide to, this is where my stuff
 <ul>
   
 <br/>
-**🏫 Where do you study? **
+**🏫 Where do you study?**
   
 I study full-time @ The Open University 
 
 <br/>
 
-**🔭  What stacks do you use? **
+**🔭  What stacks do you use?**
 
 I am currently focusing on the following technologies: 
 React.JS
@@ -38,8 +38,10 @@ PostGRES (still learning)
 
 I have been programming on and off for around 5 years.
 
-❔Can you help me on my projects?
+** ☑️ Can you help me on my projects?**
 
-Of course, you can contact me either on discord @ ojodevs **OR** contact me on via the links on my <a href="www.ojodevs.tech">website</a>
+Of course, you can contact me either on discord @ ojodevs **OR** contact me on via the links on my <a href="www.ojodevs.tech">website</a>.
+
+**disclaimer** I DO NOT CHARGE FOR WORK YET. IF ANYONE CONTACTS YOU IT IS NOT ME! **disclaimer**
 
 

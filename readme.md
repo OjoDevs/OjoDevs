@@ -50,9 +50,10 @@ I have been programming on and off for around 5 years.
 **☑️  Can you help me on my projects?**
 
 
-Of course, you can contact me either on discord: ojodevs **OR** contact me via the links on my <a href="www.ojodevs.tech">website</a>.
+Of course, you can contact me either on discord: ojodevs **OR** contact me via the links on my website in my bio.
+FYI: I dont charge for work at the moment. Im here for the experience, so please feel free to contact me.
 
 <br/>
-**disclaimer** I DO NOT CHARGE FOR WORK YET. IF ANYONE CONTACTS YOU IT IS NOT ME! **disclaimer**
+
 
 

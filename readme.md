@@ -20,6 +20,7 @@ I study full-time @ The Open University
 **🔭  What stacks do you use?**
 
 I am currently focusing on the following technologies: 
+
 React.JS
 
 Node.JS

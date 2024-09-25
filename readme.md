@@ -42,7 +42,7 @@ I have been programming on and off for around 5 years.
 
 
 <br/>
-** ☑️ Can you help me on my projects?**
+ **☑️ Can you help me on my projects?**
 
 
 

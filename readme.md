@@ -7,7 +7,7 @@ I don't mind programming now and again. When I decide to, this is where my stuff
 
   <H1> My Stack </H1>
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="67" height="67" /></div>
-<h2 class="saucier">A Little Bit About ME!</h2>
+<h1 class="saucier">About</h1>
 <ul>
   
 <br/>

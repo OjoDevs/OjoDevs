@@ -20,9 +20,16 @@ I study full-time @ The Open University
 
 I am currently focusing on the following technologies: 
 React.JS
+
 Node.JS
+
 GNIX
+
 AWS
+
 Tailwind
+
 JavaScript & Java (possibly typescript in the not-so-distant future)
+
 PostGRES (still learning)
+

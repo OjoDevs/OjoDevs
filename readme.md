@@ -11,13 +11,13 @@ I don't mind programming now and again. When I decide to, this is where my stuff
 <ul>
   
 <br/>
-🏫 Where do you study? 
+**🏫 Where do you study? **
   
 I study full-time @ The Open University 
 
 <br/>
 
-🔭  What stacks do you use? 
+**🔭  What stacks do you use? **
 
 I am currently focusing on the following technologies: 
 React.JS
@@ -34,7 +34,7 @@ JavaScript & Java (possibly typescript in the not-so-distant future)
 
 PostGRES (still learning)
 
-⏲️ How Long have you been programming?
+**⏲️ How Long have you been programming?**
 
 I have been programming on and off for around 5 years.
 
